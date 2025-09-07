@@ -1,8 +1,7 @@
 <h1 align="center">Hey 👋 I'm Mostafa Hossam</h1>
 
 <p align="center">
-  💻 Web Developer specializing in Laravel & Frontend<br />
-  🇪🇬 Based in Egypt | Passionate about clean code & UI/UX<br />
+  💻 Full Stack Deceloper Using PHP | Laravel
 </p>
 
 ---
@@ -39,9 +38,9 @@
 ### 📫 Contact Me
 
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/mostafahossam](https://linkedin.com/in/mostafahossam)  
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)  
-- 📩 Email: mostafa@example.com
+- 💼 LinkedIn: [linkedin.com/in/mostafahossam1682](https://linkedin.com/in/mostafahossam1682)  
+- 🐙 GitHub: [github.com/mostafahossam168](https://github.com/mostafahossam168)  
+- 📩 Email: mosthossam123@gmail.com
 
 ---
 
