@@ -1,6 +1,50 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Mostafa Hossam and I'm a Full Stack Web Developer from Egypt.</p>
-<h2 align="left">About me</h2>
-<p align="left"> ✨ Creating bugs since I wrote my first `echo "Hello, world!"` 😅<br> 📚 I'm currently learning advanced Laravel features and exploring DevOps basics<br> 🎯 Goals: Build high-quality web apps and contribute to open source<br> 🎲 Fun fact: I started with frontend, fell in love with backend, and now I do both! </p>
-<h2 align="left">I code with</h2>
-<div align="left"> <!-- Frontend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" /> <img width="12" /> <!-- Backend --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" /> <img width="12" /> <!-- Testing --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" /> </div>
+<h1 align="center">Hey 👋 I'm Mostafa Hossam</h1>
+
+<p align="center">
+  💻 Web Developer specializing in Laravel & Frontend<br />
+  🇪🇬 Based in Egypt | Passionate about clean code & UI/UX<br />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🐘 Backend Developer using **Laravel / PHP**
+- 🎨 Frontend skills in **HTML**, **CSS**, and **JavaScript**
+- 🧪 Testing with **PHPUnit**
+- 🛠️ Tools I use daily: Git, VS Code, Postman, Figma
+- 🌱 Currently learning: Advanced Laravel, APIs, and system design
+- 🎯 Goal: Build scalable web applications & contribute to open source
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+---
+
+### 📫 Contact Me
+
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 💼 LinkedIn: [linkedin.com/in/mostafahossam](https://linkedin.com/in/mostafahossam)  
+- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)  
+- 📩 Email: mostafa@example.com
+
+---
+
+### 🔥 Fun Fact
+
+> I create bugs on purpose... just to fix them like a hero 😎
