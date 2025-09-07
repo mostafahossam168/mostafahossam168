@@ -1,4 +1,4 @@
-<h1>align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 <p align="left">My name is Mostafa Hossam and I'm a Full Stack Web Developer from Egypt.</p>
 <h2 align="left">About me</h2>
 <p align="left"> ✨ Creating bugs since I wrote my first `echo "Hello, world!"` 😅<br> 📚 I'm currently learning advanced Laravel features and exploring DevOps basics<br> 🎯 Goals: Build high-quality web apps and contribute to open source<br> 🎲 Fun fact: I started with frontend, fell in love with backend, and now I do both! </p>
