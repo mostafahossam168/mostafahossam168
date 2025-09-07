@@ -10,6 +10,7 @@
 
 - 🐘 Backend Developer using **Laravel / PHP**
 - 🎨 Frontend skills in **HTML**, **CSS**, and **JavaScript**
+- 🛢️ Working with **MySQL** databases
 - 🧪 Testing with **PHPUnit**
 - 🛠️ Tools I use daily: Git, VS Code, Postman, Figma
 - 🌱 Currently learning: Advanced Laravel, APIs, and system design
